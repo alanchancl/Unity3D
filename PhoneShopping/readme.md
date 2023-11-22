@@ -31,7 +31,9 @@ UpdateDescription()//修改手机端的具体描述
 ~~~
 创建UI界面中下侧的六个交互按钮，然后为交互按钮设置OnClick事件
 ![image.png](https://raw.githubusercontent.com/alanchancl/BlogImg/main/img202311211719159.png)
+
 为每个按钮设置展示的模型序号，序号从0开始，与Phones数组的顺序一一对应
+
 ![image.png](https://raw.githubusercontent.com/alanchancl/BlogImg/main/img202311211723258.png)
 
 ## 2.3 SmoothUi3DCamera类
